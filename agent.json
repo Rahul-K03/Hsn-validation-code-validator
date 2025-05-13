@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "name": "validate_hsn_code",
+      "examples": [
+        "Validate HSN code 123456",
+        "Check SAC code 789101"
+      ],
+      "responses": [
+        "I will check the HSN or SAC code for you."
+      ]
+    }
+  ]
+}
