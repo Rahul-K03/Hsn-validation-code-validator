@@ -1,0 +1,5 @@
+{
+  "name": "hsn_code",
+  "type": "regex",
+  "pattern": "\\d{6}"
+}
